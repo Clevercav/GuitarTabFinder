@@ -1,0 +1,7 @@
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.deps.json
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.pdb
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\obj\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.AssemblyInfoInputs.cache
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\obj\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.AssemblyInfo.cs
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\obj\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.Interfaces\obj\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.pdb

@@ -1,0 +1,11 @@
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\bin\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.deps.json
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\bin\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\bin\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.pdb
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.pdb
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\obj\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.csprojAssemblyReference.cache
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\obj\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.AssemblyInfoInputs.cache
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\obj\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.AssemblyInfo.cs
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\obj\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.csproj.CopyComplete
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\obj\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\UGBestRatedTab\obj\Debug\netcoreapp3.1\GuitarTabFinder.UltimateGuitar.pdb

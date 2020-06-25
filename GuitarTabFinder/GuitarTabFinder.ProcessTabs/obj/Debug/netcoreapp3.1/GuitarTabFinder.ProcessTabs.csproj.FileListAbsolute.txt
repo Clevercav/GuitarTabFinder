@@ -1,0 +1,11 @@
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\bin\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.deps.json
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\bin\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\bin\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.pdb
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\bin\Debug\netcoreapp3.1\GuitarTabFinder.Interfaces.pdb
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\obj\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.csprojAssemblyReference.cache
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\obj\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.AssemblyInfoInputs.cache
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\obj\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.AssemblyInfo.cs
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\obj\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.csproj.CopyComplete
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\obj\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.dll
+C:\Projects\UGBestRatedTab\UGBestRatedTab\GuitarTabFinder.ProcessTabs\obj\Debug\netcoreapp3.1\GuitarTabFinder.ProcessTabs.pdb

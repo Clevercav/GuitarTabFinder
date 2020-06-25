@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GuitarTabFinder.ProcessTabs/1.0.0": {
+        "dependencies": {
+          "GuitarTabFinder.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "GuitarTabFinder.ProcessTabs.dll": {}
+        }
+      },
+      "GuitarTabFinder.Interfaces/1.0.0": {
+        "runtime": {
+          "GuitarTabFinder.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuitarTabFinder.ProcessTabs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuitarTabFinder.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

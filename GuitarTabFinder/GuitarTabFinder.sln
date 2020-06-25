@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuitarTabFinder.UltimateGuitar", "UGBestRatedTab\GuitarTabFinder.UltimateGuitar.csproj", "{EAB46A83-EE80-40E2-9D9F-E178CE5C5F82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuitarTabFinder.Web", "UGBestRatedTab.Web\GuitarTabFinder.Web.csproj", "{E483FA44-FF53-429C-9DA4-D9FED75DB3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarTabFinder.Interfaces", "GuitarTabFinder.Interfaces\GuitarTabFinder.Interfaces.csproj", "{2E716062-22C9-4B25-B873-57AFB6A549D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarTabFinder.TabsProcessor", "GuitarTabFinder.ProcessTabs\GuitarTabFinder.TabsProcessor.csproj", "{227305B4-D5CF-4444-9963-678AA14BB6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB46A83-EE80-40E2-9D9F-E178CE5C5F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB46A83-EE80-40E2-9D9F-E178CE5C5F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB46A83-EE80-40E2-9D9F-E178CE5C5F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB46A83-EE80-40E2-9D9F-E178CE5C5F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E483FA44-FF53-429C-9DA4-D9FED75DB3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E483FA44-FF53-429C-9DA4-D9FED75DB3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E483FA44-FF53-429C-9DA4-D9FED75DB3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E483FA44-FF53-429C-9DA4-D9FED75DB3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E716062-22C9-4B25-B873-57AFB6A549D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E716062-22C9-4B25-B873-57AFB6A549D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E716062-22C9-4B25-B873-57AFB6A549D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E716062-22C9-4B25-B873-57AFB6A549D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227305B4-D5CF-4444-9963-678AA14BB6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227305B4-D5CF-4444-9963-678AA14BB6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227305B4-D5CF-4444-9963-678AA14BB6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227305B4-D5CF-4444-9963-678AA14BB6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB57B312-9706-4C2F-8730-E838E2F230C2}
+	EndGlobalSection
+EndGlobal

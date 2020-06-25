@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.UltimateGuitar.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.Interfaces\\GuitarTabFinder.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.Interfaces\\GuitarTabFinder.Interfaces.csproj",
+        "projectName": "GuitarTabFinder.Interfaces",
+        "projectPath": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.Interfaces\\GuitarTabFinder.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\cli\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\TAC\\Sitecore NuGet\\NugetReferences": {},
+          "C:\\Users\\cli\\Desktop\\Desktop\\Sitecore 9 eLearning\\Project\\TAC\\Sitecore NuGet\\NugetReferences": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.UltimateGuitar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.UltimateGuitar.csproj",
+        "projectName": "GuitarTabFinder.UltimateGuitar",
+        "projectPath": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.UltimateGuitar.csproj",
+        "packagesPath": "C:\\Users\\cli\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\UGBestRatedTab\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\TAC\\Sitecore NuGet\\NugetReferences": {},
+          "C:\\Users\\cli\\Desktop\\Desktop\\Sitecore 9 eLearning\\Project\\TAC\\Sitecore NuGet\\NugetReferences": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.Interfaces\\GuitarTabFinder.Interfaces.csproj": {
+                "projectPath": "C:\\Projects\\UGBestRatedTab\\UGBestRatedTab\\GuitarTabFinder.Interfaces\\GuitarTabFinder.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.24, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
