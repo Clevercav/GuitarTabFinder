@@ -5,3 +5,4 @@ For now, the solution only targets ultimate-guitar.com, but is open for extensio
 
 # TODO
 - Create a frontend site to consume the GuitarTabFinder API
+- Extend API so that you're able to find the best tab based on a specific type (Chords, Pro etc)
